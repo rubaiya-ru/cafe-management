@@ -1,0 +1,4 @@
+Order total: 650.00
+Order total: 600.00
+Order total: 12.00
+Order total: 24.00

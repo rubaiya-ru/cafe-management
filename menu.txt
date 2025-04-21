@@ -1,0 +1,9 @@
+1 Espresso 10.00
+2 Latte 12.00
+3 Americano 7.00
+4 Macchiato 13.00
+5 Cappuccino 8.00
+6 Tea 11.00
+7 lemonade 5.00
+8 Smoothie 9.00
+9 milk 2.00
